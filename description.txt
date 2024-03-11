@@ -1,0 +1,2 @@
+Using Power Bi I Make Analyze For car sales performance by creating visualizations for sales trends, sales by model, sales by dealer, sales by region, and customer segmentation.
+i Use interactive dashboards to explore the data and generate a comprehensive report. I Use DAX Functions, Cards, Area Chart, Donut Chart, Map Chart, Slicers and Tables . 
